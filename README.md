@@ -1,5 +1,7 @@
 # QuizTime - Flutter Project
- a simple quiz app
+## a simple quiz app
+
+Hello, I'm Mustafa, this is my first flutter project. While learning the Flutter language, I made such an application to be practical. I did many parts from scratch, and for the rest I used the internet and the official Flutter discord server.
 
 App download link = https://drive.google.com/file/d/12h975JGHTBU1c4N5IlwogPBlCgDcxwuK/view?usp=sharing
 
