@@ -1,4 +1,4 @@
-# QuizTime
+# QuizTime - Flutter Project
  a simple quiz app
 
 App download link = https://drive.google.com/file/d/12h975JGHTBU1c4N5IlwogPBlCgDcxwuK/view?usp=sharing
