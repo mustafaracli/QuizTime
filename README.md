@@ -7,7 +7,7 @@ There are multiple choice questions for 10 c# languages in the Quiz application.
 
 App download link = https://drive.google.com/file/d/12h975JGHTBU1c4N5IlwogPBlCgDcxwuK/view?usp=sharing
 
-Gameplay video = https://youtu.be/vwoBt3IXia4
+Preview video = https://youtu.be/vwoBt3IXia4
 
 My website = http://mustafaracli.com/
 
